@@ -1,7 +1,5 @@
 
-Absolutely! Let's craft a homework assignment that covers the fundamentals of JavaScript we've discussed so far. Here's a breakdown:
-
-Assignment Instructions
+<h1> Assignment Instructions </h1>
 
 File Setup: Create a new HTML file (name it index.html) and a linked JavaScript file (name it script.js). Include the JavaScript file in your HTML using the <script> tag.
 Developer Console Usage: Explain that students will primarily use their browser's developer console to run their JavaScript code and view output. Provide basic instructions on how to open the console for their browser of choice.
